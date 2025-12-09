@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import amazonLogo from "@/assets/amazon_logo.png";
 const LandingPage = () => {
-  const offerUrl = "https://uplevelrewarded.com/aff_c?offer_id=1836&aff_id=12594";
+  const offerUrl = "https://trkfy.org/aff_c?offer_id=1431&aff_id=12594";
   return <div className="min-h-screen bg-gradient-to-b from-red-900 via-red-800 to-green-900 flex items-center justify-center px-4 relative overflow-hidden">
       {/* Snowflakes */}
       <div className="absolute inset-0 pointer-events-none">
